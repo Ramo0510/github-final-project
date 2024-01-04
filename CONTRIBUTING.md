@@ -1,10 +1,10 @@
 # Contribution guidelines
 
-Welcome Contributors!
+:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
 This document outlines the guidelines for contributing to the development of Simple Interest Calculator.
 
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+*All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.*
 
 Please note we have a [Code of Conduct](CODE_OF_CONDUCT.md), please follow it in
 all your interactions with the project and its community. 
@@ -24,4 +24,4 @@ Check the issue tracker for any open issues or feature requests. If you're worki
 ### Code review
 All contributions will go through a code review process. Be open to feedback and be willing to make changes if necessary. Code reviews help maintain code quality and consistency.
 
-Thank you for your contribution!
+Thank you for your contribution! :heart: :heart: :heart:
