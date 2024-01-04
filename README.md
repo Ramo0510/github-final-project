@@ -1,5 +1,7 @@
 <img src="https://github.com/matiassingers/awesome-readme/blob/master/icon.png?raw=true" alt="Logo" align="right" width="200px" height="200px">
 
+## Simple Interest Calculator
+
 A calculator that calculates simple interest given principal, annual rate of interest **and** time period **in** years.  
 
 **Input:**   
